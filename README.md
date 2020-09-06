@@ -1,12 +1,17 @@
-### Hi there 👋
+# Namaste 👋
+
+[![Visits Badge](https://badges.pufler.dev/visits/transhapHigsn/transhapHigsn)](https://badges.pufler.dev)
+
+- 🔭 I’m currently working on some classified stuff.
+- 🌱 I’m currently learning Rust & Embedded DSLs.
+- ⚡ Fun fact: YAMLs are fun.
+- 💬 A thought: Don't just rush into copying others stuff, fork it.
 
 <!--
 **transhapHigsn/transhapHigsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
