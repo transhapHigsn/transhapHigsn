@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on some classified stuff.
 - 🌱 I’m currently learning Rust & Embedded DSLs.
-- ⚡ Fun fact: YAMLs are fun.
-- 💬 A thought: Don't just rush into copying others stuff, fork it.
+- ⚡ Fun fact: YAMLs and Mondays are fun.
+- 💬 A thought: Don't just rush into copying others stuff, fork them.
 
 <!--
 **transhapHigsn/transhapHigsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
