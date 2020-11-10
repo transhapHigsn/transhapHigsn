@@ -4,8 +4,19 @@
 
 - 🔭 I’m currently working on some classified stuff.
 - 🌱 I’m currently learning Rust & Embedded DSLs.
-- ⚡ Fun fact: YAMLs and Mondays are fun.
+- ⚡ Fun fact: Caped Baldy is all this world need.
 - 💬 A thought: Don't just rush into copying others stuff, fork them.
+
+✨ Must watch anime recommendations ✨
+
+- One Punch Man
+- Mob Psycho 100
+- Demon Slayer
+- Haikyu
+- My Hero Academia
+- Erased
+
+P.S.: Don't be a _braggadocio_, be like _saitama_.
 
 <!--
 **transhapHigsn/transhapHigsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
