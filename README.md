@@ -12,9 +12,12 @@
 - One Punch Man
 - Mob Psycho 100
 - Demon Slayer
+- Attack On Titan
 - Haikyu
 - My Hero Academia
 - Erased
+- The Promised Neverland
+- Jujutsu Kaisen
 
 P.S.: Don't be a _braggadocio_, be like _saitama_.
 
