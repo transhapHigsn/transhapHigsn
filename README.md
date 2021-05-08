@@ -19,7 +19,8 @@
 - The Promised Neverland
 - Jujutsu Kaisen
 
-Meanwhile you can also interact with [Emojivoto](https://linkerd.higsn.tech), something I have deployed while learning about Linkerd service mesh and microservice architecture.
+<!-- 
+Meanwhile you can also interact with [Emojivoto](https://linkerd.higsn.tech), something I have deployed while learning about Linkerd service mesh and microservice architecture. -->
 
 P.S.: Don't be a _braggadocio_, be like _saitama_.
 
