@@ -1,9 +1,19 @@
 # Namaste 👋
+<!--
+[![Visits Badge](https://badges.pufler.dev/visits/transhapHigsn/transhapHigsn)](https://badges.pufler.dev) -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/transhapHigsn/transhapHigsn)](https://badges.pufler.dev)
-
+<!-- - 🔭 I’m currently working on my [website](https://www.higsn.tech). -->
+- 🌱 I’m currently learning Rust serverless.
+- 😄 Ever involved in love-hate relationship with Django.
 - ⚡ Fun fact: Caped Baldy is all this world need.
 - 💬 A thought: Don't just rush into copying others stuff, fork them.
+
+✨ Watching Now ✨
+
+- Chainsaw Man
+- Mob Psycho 100 (Season 3)
+- My Hero Academia (Season 6)
+- Bleach: Thousand-Year Blood War Arc
 
 ✨ Must watch anime recommendations ✨
 
