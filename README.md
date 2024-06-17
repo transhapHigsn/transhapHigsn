@@ -21,6 +21,8 @@
 - My Hero Academia
 - Erased
 - Jujutsu Kaisen
+- Mashle
+- Re:Zero
 
 <!-- 
 Meanwhile you can also interact with [Emojivoto](https://linkerd.higsn.tech), something I have deployed while learning about Linkerd service mesh and microservice architecture. -->
