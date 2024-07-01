@@ -9,20 +9,23 @@
 ✨ Watching Now ✨
 
 - Kaiju No. 8
+- Demon Slayer
+- My Hero Academia
 
 ✨ Must watch anime recommendations ✨
 
 - Attack On Titan
 - One Punch Man
+- Vinland Saga
 - Kaiju No. 8
 - Haikyu
+- Re:Zero
 - Mob Psycho 100
 - Demon Slayer
 - My Hero Academia
 - Erased
 - Jujutsu Kaisen
 - Mashle
-- Re:Zero
 
 <!-- 
 Meanwhile you can also interact with [Emojivoto](https://linkerd.higsn.tech), something I have deployed while learning about Linkerd service mesh and microservice architecture. -->
