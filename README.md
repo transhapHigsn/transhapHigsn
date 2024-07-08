@@ -17,6 +17,7 @@
 - Attack On Titan
 - One Punch Man
 - Vinland Saga
+- Pluto
 - Kaiju No. 8
 - Haikyu
 - Re:Zero
