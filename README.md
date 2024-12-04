@@ -6,11 +6,7 @@
 - ⚡ Fun fact: Caped Baldy is all this world need.
 - 💬 A thought: Don't just rush into copying others stuff, fork them.
 
-✨ Watching Now ✨
-
-- Kaiju No. 8
-- Demon Slayer
-- My Hero Academia
+<!-- ✨ Watching Now ✨ -->
 
 ✨ Must watch anime recommendations ✨
 
@@ -18,6 +14,7 @@
 - One Punch Man
 - Vinland Saga
 - Pluto
+- Megalo Box
 - Kaiju No. 8
 - Haikyu
 - Re:Zero
